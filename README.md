@@ -1,4 +1,4 @@
-# 🏆 Professional Certifications & Training Portfolio
+# Professional Certifications & Training Portfolio
 
 This repository serves as a centralized, verifiable portfolio of my technical certifications, enterprise job simulations, and continuous professional education (CPE). The PDFs and verification files for all completed programs are hosted directly within this repository.
 
@@ -6,28 +6,33 @@ This repository serves as a centralized, verifiable portfolio of my technical ce
 
 ---
 
-## ✅ Completed Certifications & Bootcamps
+## Completed Certifications & Bootcamps
 
-| Credential / Bootcamp | Issuing Organization | Skills & Domain | Date Completed |
-| :--- | :--- | :--- | :--- |
-| **100 Days of Code: Complete Python Pro** | Udemy | Python, OOP, API Integration | March 2026 |
-| **Artificial Intelligence Certification Program** | WILD Success | AI Strategy, Prompt Engineering | Spring 2026 |
-| **Generative AI Bootcamp** *(5 CPE Credits)* | Thinkcloudly | GenAI Models, Cloud Implementations | Spring 2026 |
-| **AWS Cloud Bootcamp** *(3 CPE Credits)* | Thinkcloudly | AWS Fundamentals, Cloud Compute | Spring 2026 |
-| **Security Operations Center (SOC)** *(5 CPE Credits)* | Thinkcloudly | Threat Intelligence, Incident Response | May 2026 |
-
----
-
-## 🏢 Enterprise Job Simulations (Completed)
-
-| Simulation Program | Partner Company | Core Competencies Demonstrated | Date Completed |
-| :--- | :--- | :--- | :--- |
-| **Software Engineering** | JPMorgan Chase & Co. | Java, Spring Framework, REST APIs, CI/CD | May 2026 |
-| **Business & Financial Services** | Citibank | Needs Assessment, Quantitative Analysis | May 2026 |
+* **100 Days of Code: Complete Python Pro** | *Udemy* (March 2026)
+  * **Skills:** Python, OOP, API Integration
+* **Artificial Intelligence Certification Program** | *WILD Success* (Spring 2026)
+  * **Skills:** AI Strategy, Prompt Engineering
+* **Generative AI Bootcamp (5 CPE Credits)** | *Thinkcloudly* (Spring 2026)
+  * **Skills:** GenAI Models, Cloud Implementations
+* **AWS Cloud Bootcamp (3 CPE Credits)** | *Thinkcloudly* (Spring 2026)
+  * **Skills:** AWS Fundamentals, Cloud Compute
+* **Security Operations Center (SOC) Bootcamp (5 CPE Credits)** | *Thinkcloudly* (May 2026)
+  * **Skills:** Threat Intelligence, Incident Response
 
 ---
 
-## 🚀 2026 Certification & Training Roadmap
+## Enterprise Job Simulations (Completed)
+
+* **Data Analytics Job Simulation** | *Quantium* (May 2026)
+  * **Skills:** Commercial Thinking, Communication Skills, Data Analysis, Data Cleaning, Data Validation, Data Visualization, Presentation Skills, Programming, Statistical Analysis
+* **Software Engineering Job Simulation** | *JPMorgan Chase & Co.* (May 2026)
+  * **Skills:** Spring, Build Tools, Java Programming, Message Queuing, REST API, Spring Framework, SQL Database
+* **Business & Financial Services Job Simulation** | *Citibank* (May 2026)
+  * **Skills:** Client Communication, Communication, Data Analysis, Data Extraction, Excel, Fact-Finding, Ideation, Needs Assessment, Presentation Skills, Product Development, Quantitative Analysis
+
+---
+
+## 2026 Certification & Training Roadmap
 
 This section outlines my active study paths and targeted completion dates for high-level vendor certifications and enterprise simulations.
 
@@ -38,7 +43,7 @@ This section outlines my active study paths and targeted completion dates for hi
   * *Status:* Scheduled
   * *Target Completion:* Winter 2026 (or earlier)
 * **Enterprise Data Analytics & Science Simulations**
-  * *Partner Companies:* Deloitte, Quantium, British Airways (via Forage)
+  * *Partner Companies:* Deloitte, British Airways (via Forage)
   * *Status:* In Progress
   * *Target Completion:* End of Summer 2026
 
